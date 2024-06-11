@@ -1,0 +1,27 @@
+Make a directory/folder
+Command: mkdir [directory-name]
+
+Remove a directory
+Command: rmdir [directory-name]
+
+Print/Present Working Directory
+Command: pwd
+
+List command
+Command: ls
+
+Clear the terminal
+Command: clear
+
+Change Directory
+Command: cd [directory-path]  EXAMPLE: cd '1 - Mastering CLI'
+
+Go back one directory
+Command: cd ..
+
+Create files
+Command: touch [filename.extension]  EXAMPLE: touch file.txt
+
+Delete files
+Command: rm [filename.extension]  EXAMPLE: rm file.txt
+

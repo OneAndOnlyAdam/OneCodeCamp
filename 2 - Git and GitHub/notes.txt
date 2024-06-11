@@ -1,0 +1,22 @@
+Check for git version
+Command: git --version
+
+Configure Git
+Command: git config --global user.name "username"  EXAMPLE: 
+Command: git config --global user.email "email"  EXAMPLE: 
+
+nitialize an empty repository
+Command: git init
+
+Check for the status of files
+Command: git status
+
+Add files to the staging area
+Command: git add .
+
+Create a commit
+Command: git commit -m "This is the description."
+
+U - Untracked
+M - Modified
+A - Added
