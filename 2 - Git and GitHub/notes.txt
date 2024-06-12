@@ -15,7 +15,32 @@ Add files to the staging area
 Command: git add .
 
 Create a commit
-Command: git commit -m "This is the description."
+Command: git commit -m "This is the description."  <--fill in the description of what you're doing.
+
+Bypass the staging area
+Command: git commit -a -m "This is the description." <--fill in the description of what you're doing.
+
+Show the history 
+Author, Date, description
+Command: git log
+
+Description
+Command: git log --oneline
+
+-----Branching-----
+
+List out all of the branches
+Command: git branch -a
+
+Create a branch
+Command: git branch [branch-name]
+
+Switch to a different branch
+Command: git switch [branch-name]
+
+Merge 
+git merge [branch-name]  <--Name of branch we want to merge from
+
 
 U - Untracked
 M - Modified
